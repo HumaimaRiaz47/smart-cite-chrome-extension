@@ -76,9 +76,8 @@ You highlight a sentence, open a new tab, paste it into Google Scholar, and hope
 
 ## 🎥 Demo Video
 
-**YouTube Link:** [add link here]  
-**Length:** ~2 minutes  
-**Shows:** Context-menu demo, AI-powered query generation, and Chrome Summarizer API usage.
+**YouTube Link:** [https://youtu.be/iOBOzxU7CaU]
+
 
 ---
 
